@@ -1,1 +1,6 @@
 /kompletnie nowy plik.txt
+<<<<<<< HEAD
+=======
+/.gitignore
+/adamignored.txt
+>>>>>>> 7af17f9cf18e9a83fef7956dbd3f7eb0f8855f5a
