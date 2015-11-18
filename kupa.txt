@@ -1,0 +1,16 @@
+jedna kupa
+loooool co za plik
+<<<<<<< HEAD
+gówno
+=======
+dwie kupy
+sto kup
+
+
+
+
+
+gówno skasowa³o moj¹ wiadomoœæ
+
+same kupyyyyyyyyyyyyyyyyyyyyyyyyyyyy
+>>>>>>> 038c4166c09706abda538e7b3efe94fc53aa0bb3
