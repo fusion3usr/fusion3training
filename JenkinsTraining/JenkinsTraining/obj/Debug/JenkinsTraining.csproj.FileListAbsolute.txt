@@ -64,6 +64,5 @@ c:\users\wryczko\documents\visual studio 2015\Projects\JenkinsTraining\JenkinsTr
 c:\users\wryczko\documents\visual studio 2015\Projects\JenkinsTraining\JenkinsTraining\bin\Microsoft.Owin.Security.Google.xml
 c:\users\wryczko\documents\visual studio 2015\Projects\JenkinsTraining\JenkinsTraining\bin\Microsoft.Owin.Security.Twitter.xml
 c:\users\wryczko\documents\visual studio 2015\Projects\JenkinsTraining\JenkinsTraining\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-c:\users\wryczko\documents\visual studio 2015\Projects\JenkinsTraining\JenkinsTraining\obj\Debug\JenkinsTraining.csprojResolveAssemblyReference.cache
 c:\users\wryczko\documents\visual studio 2015\Projects\JenkinsTraining\JenkinsTraining\obj\Debug\JenkinsTraining.dll
 c:\users\wryczko\documents\visual studio 2015\Projects\JenkinsTraining\JenkinsTraining\obj\Debug\JenkinsTraining.pdb

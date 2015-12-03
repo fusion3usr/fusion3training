@@ -1,0 +1,6 @@
+c:\users\wryczko\documents\visual studio 2015\Projects\JenkinsTraining\JenkinsTrainingTests\bin\Debug\JenkinsTrainingTests.dll
+c:\users\wryczko\documents\visual studio 2015\Projects\JenkinsTraining\JenkinsTrainingTests\bin\Debug\JenkinsTrainingTests.pdb
+c:\users\wryczko\documents\visual studio 2015\Projects\JenkinsTraining\JenkinsTrainingTests\bin\Debug\nunit.framework.dll
+c:\users\wryczko\documents\visual studio 2015\Projects\JenkinsTraining\JenkinsTrainingTests\bin\Debug\nunit.framework.xml
+c:\users\wryczko\documents\visual studio 2015\Projects\JenkinsTraining\JenkinsTrainingTests\obj\Debug\JenkinsTrainingTests.dll
+c:\users\wryczko\documents\visual studio 2015\Projects\JenkinsTraining\JenkinsTrainingTests\obj\Debug\JenkinsTrainingTests.pdb
